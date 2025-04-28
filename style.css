@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.button-cr span{
+    background-color: white;
+    margin-top: 380px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
